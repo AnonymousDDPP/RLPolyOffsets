@@ -8,7 +8,7 @@ We appreciate your understanding that the source code necessary for reproducing 
  
 The file naming convention in the directories `data/polyhedra/training`, `data/polyhedra/validation` and `data/polyhedra/test` follows the format `<source> <title> @<owner>.stl`, where `<source>` stands for the source from which the polyhedral object with the title `<title>` owned by `<owner>` was taken. For `<source>`, there are `cults` [[2]](#2), `thingiverse` [[3]](#3) and `sketchfab` [[4]](#4). All used objects are subject to Creative Commons licenses and were downloaded from the respective websites on October 6, 2023.
 
-The name of each file in the directory `data/polyhedra/thingi10k` corresponds to the model number of the respective object from the Thingi10K database [[5]](#5). All objects were downloaded from [[6]](#6) on February 14, 2025.
+The name of each file in the directory `data/polyhedra/thingi10k` corresponds to the model number of the respective object in the Thingi10K database [[5]](#5). All objects were downloaded from [[6]](#6) on February 14, 2025.
 
 
 ## References
